@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-04",
+  "title": "Mercredi 4 novembre : pas de veille ce matin, les sources étaient injoignables",
+  "pub_date": "Tue, 03 Nov 2026 21:10:57 +0000",
+  "bytes": 173952,
+  "seconds": 28,
+  "notes": "<p>La routine du soir n&#x27;a pas pu consulter les flux ni les sites de la veille : le réseau de la session bloquait l&#x27;accès. Aucun sujet n&#x27;a été lu ni vérifié. La veille normale reprend demain soir.</p><ol></ol>"
+ },
+ {
   "date": "2026-11-03",
   "title": "Mardi 3 novembre : le harnais compte plus que le modèle, le négoce encaisse la petite collecte",
   "pub_date": "Tue, 03 Nov 2026 11:26:20 +0000",

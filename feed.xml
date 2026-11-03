@@ -7,6 +7,14 @@
 <description>Veille quotidienne : IA agentique, coopératives, négoce, chambres, réglementation, récoltes.</description>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>Mercredi 4 novembre : pas de veille ce matin, les sources étaient injoignables</title>
+<guid isPermaLink="false">2026-11-04</guid>
+<pubDate>Tue, 03 Nov 2026 21:10:57 +0000</pubDate>
+<enclosure url="https://davidleydier.github.io/veille-feed/episodes/2026-11-04.mp3" length="173952" type="audio/mpeg"/>
+<itunes:duration>28</itunes:duration>
+<description><![CDATA[<p>La routine du soir n&#x27;a pas pu consulter les flux ni les sites de la veille : le réseau de la session bloquait l&#x27;accès. Aucun sujet n&#x27;a été lu ni vérifié. La veille normale reprend demain soir.</p><ol></ol>]]></description>
+</item>
+<item>
 <title>Mardi 3 novembre : le harnais compte plus que le modèle, le négoce encaisse la petite collecte</title>
 <guid isPermaLink="false">2026-11-03</guid>
 <pubDate>Tue, 03 Nov 2026 11:26:20 +0000</pubDate>
